@@ -13,3 +13,14 @@ export const genericEscape = (unescapedString : string, escapeMap : Map<string, 
     }
     return escapedString;
 }
+
+
+export const genericUnescape = (escapedHtmlString: string, escapeMap : Map<string, string>) => {
+    const keys = Object.keys(escapeMap);
+    
+    escapeMap.forEach((value, key)=> {
+        escapedHtmlString = escapedHtmlString.replaceAll(value, key);
+    })
+
+    return escapedHtmlString;
+}
