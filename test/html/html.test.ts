@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test";
-import { escapeHTMLString, unescapeHtmlString } from "./html";
+import { escapeHTMLString, unescapeHtmlString } from "../../modules/html/html";
 
 
-const textFile = Bun.file('./modules/html/htmlStrings.txt');
-const escapedTextFile = Bun.file('./modules/html/escapedHTML.txt');
+const textFile = Bun.file('./test/html/htmlStrings.txt');
+const escapedTextFile = Bun.file('./test/html/escapedHTML.txt');
 
 const text = await textFile.text();
 const escapedText = await escapedTextFile.text();
